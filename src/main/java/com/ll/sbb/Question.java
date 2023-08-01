@@ -1,9 +1,8 @@
-package com.ll.sbb.question;
+package com.ll.sbb;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
-import com.ll.sbb.answer.Answer;
 import jakarta.persistence.*;
 
 import lombok.Getter;
